@@ -1,38 +1,63 @@
-## Hi 👋, I'm Muhammad Saad Siddiqui
+<div align="center">
 
-**Software Engineering Student | Workflow Automation | Algorithmic & Quantitative Trader**
+# Hi, I'm Muhammad Saad Siddiqui 👋
 
----
+**Software Engineering Student @ MAJU • Vibe Coder • Debugger • AI & Web Builder**
 
-### 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-siddiqui-dev)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/saadsiddiqui57)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvellous.saad@gmail.com)
 
-* 🔭 **Software Engineering:** Currently studying at Mohammad Ali Jinnah University (MAJU).
-* ⚙️ **Workflow Automation:** Building intelligent scripts, API integrations, and efficient automated workflows.
-* 📈 **Logic-Based Algorithmic Trading:** Developing proprietary technical indicators, custom Pine Script v5 strategies, and automated trading systems.
-* 🚀 **Proprietary Software:** Crafting high-value, logic-driven trading algorithms and custom execution tools.
-
----
-
-### 🛠️ Tech Stack & Trading Suite
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pine_Script-003366?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithmic_Trading-00D09C?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 Proprietary Trading Indicators & Scripts
+### 🚀 About Me
 
-> 💡 **Notice:** Custom algorithmic trading tools and proprietary Pine Script systems will be showcased in this repository. Fully customized logic-based indicators and strategy scripts engineered for institutional/precision execution.
+I'm a **Bachelor of Science in Software Engineering (BSSE)** student at **Mohammad Ali Jinnah University (MAJU)** in Karachi, Pakistan. I focus on turning concepts into live, working software fast—combining **AI-driven vibe coding** for rapid prototyping with **systematic debugging** to make sure builds actually ship and scale cleanly.
+
+* ⚡ **Vibe Coder:** Rapidly building and iterating full-stack web apps, interactive UIs, and AI-powered tools using modern frameworks and AI workflows.
+* 🛠️ **Debugger & Problem Solver:** Diagnosing runtime errors, resolving dependency and CI/CD build failures, fixing deployment bottlenecks, and optimizing system performance.
+* 🤖 **AI & Workflow Automation:** Engineering smart scripts, prompt pipelines, and cloud-integrated web applications.
+* 🎨 **Digital Media & Creative Tech:** Crafting high-retention visual content and UI experiences alongside software builds.
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rtsaad07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" />
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks, Cloud & Deployment**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[nexus-ai-platform](https://github.com/rtsaad07/nexus-ai-platform)** | `Next.js` • `TypeScript` • `Vercel` | Full-stack AI web platform engineered for rapid AI workflows, clean UI responsiveness, and automated cloud deployment. |
+| **[ai-dashboard-app](https://github.com/rtsaad07/ai-dashboard-app)** | `HTML5` • `CSS3` • `JavaScript` | Lightweight, responsive AI dashboard interface deployed via GitHub Pages with optimized client-side rendering. |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtsaad07&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtsaad07&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
