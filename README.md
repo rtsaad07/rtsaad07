@@ -44,20 +44,3 @@ I'm a **Bachelor of Science in Software Engineering (BSSE)** student at **Mohamm
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[nexus-ai-platform](https://github.com/rtsaad07/nexus-ai-platform)** | `Next.js` • `TypeScript` • `Vercel` | Full-stack AI web platform engineered for rapid AI workflows, clean UI responsiveness, and automated cloud deployment. |
-| **[ai-dashboard-app](https://github.com/rtsaad07/ai-dashboard-app)** | `HTML5` • `CSS3` • `JavaScript` | Lightweight, responsive AI dashboard interface deployed via GitHub Pages with optimized client-side rendering. |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtsaad07&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtsaad07&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
